@@ -10,6 +10,7 @@ namespace Başlangıc
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Merhaba Dünya!");
         }
     }
 }
